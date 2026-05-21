@@ -86,7 +86,7 @@ Responsive website project developed during internship at Bharat Coking Coal Lim
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shantanu0015/Shantanu0015/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu0015&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </p>
 
 ---
