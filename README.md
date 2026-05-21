@@ -62,7 +62,7 @@ Responsive website project developed during internship at Bharat Coking Coal Lim
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shantanu0015&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shantanu0015&show_icons=true&theme=radical"/>
 </p>
 
 ---
@@ -70,7 +70,7 @@ Responsive website project developed during internship at Bharat Coking Coal Lim
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Shantanu0015&theme=tokyonight&hide_border=false"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shantanu0015&theme=radical"/>
 </p>
 
 ---
@@ -78,10 +78,9 @@ Responsive website project developed during internship at Bharat Coking Coal Lim
 # 📈 Most Used Languages
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu0015&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu0015&layout=compact&theme=radical"/>
 </p>
 
----
 
 # 🐍 Contribution Snake
 
