@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shantanu Sarkar</h1>
 
-<!--
-**Shantanu0015/Shantanu0015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Aspiring Full Stack Developer from India 🇮🇳
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+💻 Building real-world web applications using Python, Flask & React <br>
+🚀 Passionate about AI, Backend Development & UI/UX <br>
+🎯 Learning by building projects and improving every day
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,react,git,github,vscode" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🌐 My Portfolio
+
+Modern personal portfolio website showcasing projects, skills, and development journey.
+
+### 🧠 Space GK Quiz
+
+Interactive quiz application with scoring system and responsive UI.
+
+### 🤖 StudyPilot AI
+
+AI-powered study planner with chatbot, Pomodoro timer, analytics, and productivity tools.
+
+---
+
+## 📊 GitHub Stats
+
+![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shantanu0015\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shantanu0015\&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn:
+  https://linkedin.com/in/shantanu-sarkar-b94312373/
+
+* GitHub:
+  https://github.com/Shantanu0015
